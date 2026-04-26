@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+Unstructured
+sentence-transformers
+faiss-cpu
+chromadb
+python-multipart
+fastapi uvicorn
+genai  

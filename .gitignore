@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+lgenv/
+*.egg-info/
+dist/
+build/
+.CHANGES_SUMMARY.local
+.SETUP_ANALYSIS.local
+.requirement2.local
+.n.loacal
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+saved_files/
+data/sc_judgments_db/chroma.sqlite3
+*.db
+*.sqlite3
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
