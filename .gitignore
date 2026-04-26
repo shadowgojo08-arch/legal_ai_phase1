@@ -14,7 +14,11 @@ build/
 .CHANGES_SUMMARY.local
 .SETUP_ANALYSIS.local
 .requirement2.local
-.n.loacal
+.n.local
+CHANGES_SUMMARY.md
+SETUP_ANALYSIS.md
+requirement2.txt
+n.txt
 # Environment
 .env
 .env.local
