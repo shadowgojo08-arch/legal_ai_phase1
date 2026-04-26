@@ -1,5 +1,5 @@
 # Legal AI Assistant for Indian Court Lawyers(most important part to read)
-
+## This is also my MLH sample code submission
 An AI-powered assistant that retrieves Supreme Court precedents and generates comprehensive legal briefs using RAG (Retrieval-Augmented Generation) with Google Gemini API.
 That just was the intro in this project i tried  to build the go to platform for lawyers 
 i tested and trained this with a 8k case opensource data base locally ()
